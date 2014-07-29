@@ -20,3 +20,7 @@ Installation
 .. code-block:: console
 
     $ go get github.com/mattrobenolt/emptygif
+
+Resources
+~~~~~~~~~
+* `Documentation <http://godoc.org/github.com/mattrobenolt/emptygif>`_
