@@ -1,5 +1,8 @@
 package emptygif
 
+// Raw bytes for a 1x1 transparent pixel
+// Original source:
+//   https://github.com/nginx/nginx/blob/v1.7.3/src/http/modules/ngx_http_empty_gif_module.c
 var PIXEL = []byte{
     'G', 'I', 'F', '8', '9', 'a',  /* header                                 */
 
